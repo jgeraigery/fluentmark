@@ -48,9 +48,9 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.atlassian.commonmark</groupId>
+			<groupId>org.commonmark</groupId>
 			<artifactId>commonmark</artifactId>
-			<version>0.10.0</version>
+			<version>0.17.0</version>
 		</dependency>
 
 		<dependency>
@@ -184,7 +184,7 @@
 								<artifactItem>
 									<groupId>com.atlassian.commonmark</groupId>
 									<artifactId>commonmark</artifactId>
-									<version>0.10.0</version>
+									<version>0.17.0</version>
 									<type>jar</type>
 									<overWrite>true</overWrite>
 								</artifactItem>
